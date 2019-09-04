@@ -31,6 +31,6 @@ Pod::Spec.new do |s|
    }
    
    s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'Kingfisher', '~> 4.6.3'
+   s.dependency 'Kingfisher', '~> 5.4.0'
    
 end
