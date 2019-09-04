@@ -21,8 +21,8 @@ Pod::Spec.new do |s|
   s.author           = { 'okhanokbay' => 'okhanokbay5@gmail.com' }
   s.source           = { :git => 'https://github.com/okhanokbay/MapViewPlus.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
-  s.swift_version = '4.0'
+  s.ios.deployment_target = '10.0'
+  s.swift_version = '5.0'
 
   s.source_files = 'MapViewPlus/Classes/**/*'
   
